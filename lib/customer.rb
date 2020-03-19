@@ -1,3 +1,6 @@
+#CUSTOMER IS THE JOINER!!!
+
+
 class Customer
     attr_accessor :name, :age
   

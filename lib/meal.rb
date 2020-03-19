@@ -1,3 +1,6 @@
+#CUSTOMER IS THE JOINER!!!
+
+
 class Meal
 
     attr_accessor :waiter, :customer, :total, :tip
